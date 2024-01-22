@@ -1,0 +1,112 @@
+id 1
+brand atomic
+model XD20
+type snowboard
+subtype freeride
+quantity type 1
+quantity 93
+width 10
+height 15
+lenght 20
+
+id 2
+brand nike
+model GhdV120
+type snowboard
+subtype race
+quantity type 1
+quantity 34
+width 10
+height 15
+lenght 20
+
+id 3
+brand rossignol
+model pursuit_500
+type snowboard
+subtype sigma_grindset
+quantity type 1
+quantity 25
+width 10
+height 15
+lenght 20
+
+id 4
+brand ANANI
+model KUKUZELOV
+type snowboard
+subtype freestyle
+quantity type 1
+quantity 19
+width 10
+height 15
+lenght 20
+
+id 5
+brand red
+model 1000
+type snowboard
+subtype powder
+quantity type 1
+quantity 28
+width 10
+height 15
+lenght 30
+
+
+id 7
+brand nike
+model GhV120
+type ski
+subtype race
+quantity type pair
+quantity 28
+width 10
+height 15
+lenght 20
+
+id 8
+brand rossignol
+model pursuit_100
+type ski
+subtype cross_country
+quantity type pair
+quantity 13
+width 10
+height 15
+lenght 20
+
+id 9
+brand ANANI
+model KUKUZELOV
+type ski
+subtype freestyle
+quantity type pair
+quantity 25
+width 10
+height 15
+lenght 20
+
+
+
+id 12
+brand attomic
+model asd
+type carving
+subtype ski
+quantity type s
+quantity 5
+width s
+height s
+length s
+
+id 13
+brand attomic
+model gosho
+type gosho
+subtype gosho
+quantity type gosho
+quantity 5
+width gosho
+height gosho
+length gosho
